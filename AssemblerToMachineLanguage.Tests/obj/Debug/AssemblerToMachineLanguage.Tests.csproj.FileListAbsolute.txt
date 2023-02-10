@@ -1,0 +1,11 @@
+D:\projects\AssemblerToMachineLanguage\AssemblerToMachineLanguage.Tests\bin\Debug\AssemblerToMachineLanguage.Tests.dll
+D:\projects\AssemblerToMachineLanguage\AssemblerToMachineLanguage.Tests\bin\Debug\AssemblerToMachineLanguage.Tests.pdb
+D:\projects\AssemblerToMachineLanguage\AssemblerToMachineLanguage.Tests\bin\Debug\AssemblerToMachineLanguage.exe
+D:\projects\AssemblerToMachineLanguage\AssemblerToMachineLanguage.Tests\bin\Debug\nunit.framework.dll
+D:\projects\AssemblerToMachineLanguage\AssemblerToMachineLanguage.Tests\bin\Debug\AssemblerToMachineLanguage.pdb
+D:\projects\AssemblerToMachineLanguage\AssemblerToMachineLanguage.Tests\bin\Debug\nunit.framework.xml
+D:\projects\AssemblerToMachineLanguage\AssemblerToMachineLanguage.Tests\obj\Debug\AssemblerToMachineLanguage.Tests.csproj.AssemblyReference.cache
+D:\projects\AssemblerToMachineLanguage\AssemblerToMachineLanguage.Tests\obj\Debug\AssemblerToMachineLanguage.Tests.csproj.CoreCompileInputs.cache
+D:\projects\AssemblerToMachineLanguage\AssemblerToMachineLanguage.Tests\obj\Debug\AssemblerToMachineLanguage.Tests.csproj.CopyComplete
+D:\projects\AssemblerToMachineLanguage\AssemblerToMachineLanguage.Tests\obj\Debug\AssemblerToMachineLanguage.Tests.dll
+D:\projects\AssemblerToMachineLanguage\AssemblerToMachineLanguage.Tests\obj\Debug\AssemblerToMachineLanguage.Tests.pdb

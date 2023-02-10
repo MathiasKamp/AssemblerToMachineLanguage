@@ -1,0 +1,7 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=90c9c77b_002D7c20_002D4cbf_002D96e5_002Dacdd1525d381/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="ShouldAddToDictionaryIfNotExists" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::75A8A71A-7988-4835-BC0B-035CE39E6546::.NETFramework,Version=v4.8::AssemblerToMachineLanguage.Tests.SymbolTable_Tests.ShouldAddToDictionaryIfNotExists&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::75A8A71A-7988-4835-BC0B-035CE39E6546::.NETFramework,Version=v4.8::AssemblerToMachineLanguage.Tests.Parser_Tests.ShouldReturnBitValueOfAInstruction&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

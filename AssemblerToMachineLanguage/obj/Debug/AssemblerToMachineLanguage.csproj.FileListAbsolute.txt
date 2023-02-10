@@ -1,0 +1,7 @@
+D:\projects\AssemblerToMachineLanguage\AssemblerToMachineLanguage\bin\Debug\AssemblerToMachineLanguage.exe
+D:\projects\AssemblerToMachineLanguage\AssemblerToMachineLanguage\bin\Debug\AssemblerToMachineLanguage.pdb
+D:\projects\AssemblerToMachineLanguage\AssemblerToMachineLanguage\obj\Debug\AssemblerToMachineLanguage.csproj.AssemblyReference.cache
+D:\projects\AssemblerToMachineLanguage\AssemblerToMachineLanguage\obj\Debug\AssemblerToMachineLanguage.csproj.SuggestedBindingRedirects.cache
+D:\projects\AssemblerToMachineLanguage\AssemblerToMachineLanguage\obj\Debug\AssemblerToMachineLanguage.csproj.CoreCompileInputs.cache
+D:\projects\AssemblerToMachineLanguage\AssemblerToMachineLanguage\obj\Debug\AssemblerToMachineLanguage.exe
+D:\projects\AssemblerToMachineLanguage\AssemblerToMachineLanguage\obj\Debug\AssemblerToMachineLanguage.pdb
